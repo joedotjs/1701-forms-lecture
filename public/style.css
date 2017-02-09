@@ -1,0 +1,18 @@
+#credit-card-form {
+    padding: 20px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+#credit-card-form div {
+    padding: 10px 0;
+}
+
+#credit-card-form input[name="ccv"] {
+    width: 20%;
+}
+
+#credit-card-form .box {
+    background: rgba(255, 0, 0, 0.09);
+    font-weight: bold;
+}
